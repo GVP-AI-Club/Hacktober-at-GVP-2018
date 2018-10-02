@@ -33,6 +33,12 @@ git clone https://github.com/{username}/Hacktober-at-GVP.git
 ```
 where `{username}` is your GitHub username. Here you're copying the contents of the first-contributions repository in GitHub to your computer.
 
+For example: 
+
+```
+git clone https://github.com/WierdMosquito123/Hacktober-at-GVP.git
+```
+
 ## Create a branch
 
 Change to the repository directory on your computer (if you are not already there):
@@ -47,7 +53,7 @@ git checkout -b <new-branch-name>
 
 For example:
 ```
-git checkout -b wierd-mosquito
+git checkout -b add-WierdMosquito123
 ```
 (The name of the branch does not need to have the word *add* in it, but it's a reasonable thing to include because the purpose of this branch is to add your name to a list.)
 
