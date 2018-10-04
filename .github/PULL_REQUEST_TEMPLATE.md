@@ -3,9 +3,9 @@
 
 ## Submission Checklist :heavy_check_mark:
 
-- [ ] I read the CONTRIBUTIONS.md .<br>
-- [ ] I've forked the repository.<br>
-- [ ] I've created a branch in the following format  ```MY- USERNAME - SHORT-NAME-OF-SUBMISSION```.
-- [ ] I've read the Hacktoberfest's official [guidelines](https://hacktoberfest.digitalocean.com/details) regarding making pull request.
-- [ ] I've added my name into CONTRIBUTORS.md
-- [ ] I've filled in this [form](https://goo.gl/forms/hs4zJAl7Hlz7SUKQ2).
+- [x] I read the CONTRIBUTIONS.md .<br>
+- [x] I've forked the repository.<br>
+- [x] I've created a branch in the following format  ```MY- USERNAME - SHORT-NAME-OF-SUBMISSION```.
+- [x] I've read the Hacktoberfest's official [guidelines](https://hacktoberfest.digitalocean.com/details) regarding making pull request.
+- [x] I've added my name into CONTRIBUTORS.md
+- [x] I've filled in this [form](https://goo.gl/forms/hs4zJAl7Hlz7SUKQ2).
