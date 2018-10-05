@@ -1,5 +1,5 @@
 ### :warning: This is a Pull Request Template :warning: 
-##### This will help you complete a pull request. Please follow the instructions below. And also,make sure that you're bound to [code of conduct](#)
+#####This will help you complete a pull request. Please follow the instructions below. And also,make sure that you're bound to [code of conduct](#)
 
 ## Submission Checklist :heavy_check_mark:
 
