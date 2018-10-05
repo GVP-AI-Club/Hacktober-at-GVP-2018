@@ -24,11 +24,6 @@ Now clone the forked repo to your machine. Go to your GitHub account, open the f
 Open a terminal and run the following git command:
 
 ```
-git clone "https://github.com/GVP-AI-Club/Hacktober-at-GVP.git"
-```
-
-For example:
-```
 git clone https://github.com/{username}/Hacktober-at-GVP.git
 ```
 where `{username}` is your GitHub username. Here you're copying the contents of the first-contributions repository in GitHub to your computer.
