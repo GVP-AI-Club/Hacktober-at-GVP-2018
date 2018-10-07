@@ -2,6 +2,7 @@
 
 - [Rakesh Peela](https://github.com/rakhi2104)
 - [Sandhya Kakarlamudi](https://github.com/saisandhya3198)
+- [Lakshmi Narayana](https://github.com/Narayanaio)
 - [Saketha Ramanujam](https://github.com/sakethramanujam)
 - [Italo Sousa](https://github.com/italosa)
-- [Lakshmi Narayana](https://github.com/Narayanaio)
+
