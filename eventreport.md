@@ -36,7 +36,7 @@ We went very well with time and arranging things.
 ![saketh](https://res.cloudinary.com/stuartlittle/image/upload/v1538923151/saketh.png)
 - In the noon Rakesh spoke about getting started with contributing to open source and shared his story of his first merge onto FreeCodeCamp/Guides.
 ##### Rakesh on contributing to OSS
-![rakesh](https://res.cloudinary.com/stuartlittle/image/upload/v1538923856/rakesh.png)
+![rakesh](https://res.cloudinary.com/dkzwzuwft/image/upload/v1538928848/resources/Screenshot_9.png)
 - We were then joined by [Goutham Veeramachaneni](https://github.com/gouthamve) maintainer Prometheus and Developer Grafana to share with us his journey from being a developer contributor to a  
 maintainer of Promethues Project.
 ##### Goutham Veeramachaneni on OSS
@@ -64,7 +64,7 @@ I would consider myself a useless leader if I do not mention the amazing work do
 - [Mr. Santosh Killamsetty](https://github.com/KILLERKILLAM )
 
 ## Positives :+1:
-- 💸 Immediate Sponsorship approval from GitHub and @joenash 
+- 💸 Immediate Sponsorship approval from GitHub and [Joe Nash](https://github.com/joenash)
 - 🏛  Supportive administration 
 - 🥇 Being First time first of its kind event people were anxious and that drove people to come in. 
 - ❣️ Opening Keynote and Closing session by Prof. Madan Mohan and Goutham V, have filled in motivation for people to contribute to opensource.
