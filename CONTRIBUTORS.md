@@ -4,3 +4,4 @@
 - [Sandhya Kakarlamudi](https://github.com/saisandhya3198)
 - [Saketha Ramanujam](https://github.com/sakethramanujam)
 - [Italo Sousa](https://github.com/italosa)
+- [Supriya](https://github.com/SupriyaAmanana)
