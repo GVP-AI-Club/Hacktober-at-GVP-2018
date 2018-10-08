@@ -3,4 +3,5 @@
 - [Rakesh Peela](https://github.com/rakhi2104)
 - [Sandhya Kakarlamudi](https://github.com/saisandhya3198)
 - [Saketha Ramanujam](https://github.com/sakethramanujam)
+- [kiran vaddi](https://github.com/vaddisiva5034)
 - [Italo Sousa](https://github.com/italosa)
