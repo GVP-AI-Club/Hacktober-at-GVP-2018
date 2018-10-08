@@ -6,7 +6,9 @@
 - [Saketha Ramanujam](https://github.com/sakethramanujam)
 - [Chrisando Ryan](https://github.com/chrisandoryan)
 - [Italo Sousa](https://github.com/italosa)
+- [Supriya](https://github.com/SupriyaAmanana)
 - [Manohar Ganta](https://github.com/manoharganta256)
 - [Rohit Babu](https://github.com/rohitbabugaddeti)
 - [Italo Sousa](https://github.com/italosa)
 - [GVP AI](https://github.com/gvp-ai)
+
