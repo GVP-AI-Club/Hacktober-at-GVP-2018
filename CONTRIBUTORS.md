@@ -4,6 +4,7 @@
 - [Mounika Kalahasthi](https://github.com/MounikaKalahasthi7)
 - [Ewerton Ferreira](http://github.com/phelphelps)
 - [Sandhya Kakarlamudi](https://github.com/saisandhya3198)
+- [Lakshmi Narayana](https://github.com/Narayanaio)
 - [Nirisha Mycharla](https://github.com/nirisha69)
 - [Saketha Ramanujam](https://github.com/sakethramanujam)
 - [Sandeep Mula](https://github.com/ThePhantomCoder)
