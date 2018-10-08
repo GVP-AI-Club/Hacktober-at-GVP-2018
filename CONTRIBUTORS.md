@@ -3,6 +3,7 @@
 - [Rakesh Peela](https://github.com/rakhi2104)
 - [Ewerton Ferreira](http://github.com/phelphelps)
 - [Sandhya Kakarlamudi](https://github.com/saisandhya3198)
+[Nirisha Mycharla](https://github.com/nirisha69)
 - [Saketha Ramanujam](https://github.com/sakethramanujam)
 - [Chrisando Ryan](https://github.com/chrisandoryan)
 - [Italo Sousa](https://github.com/italosa)
