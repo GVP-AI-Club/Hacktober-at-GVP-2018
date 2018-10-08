@@ -1,7 +1,14 @@
 # Contributors to [Hacktober-at-GVP](https://gvp-ai-club.github.io/hacktoberfest) organized by GVP-AI-Club
 
 - [Rakesh Peela](https://github.com/rakhi2104)
+- [Mounika Kalahasthi](https://github.com/MounikaKalahasthi7)
+- [Ewerton Ferreira](http://github.com/phelphelps)
 - [Sandhya Kakarlamudi](https://github.com/saisandhya3198)
+- [Lakshmi Narayana](https://github.com/Narayanaio)
+- [Nirisha Mycharla](https://github.com/nirisha69)
 - [Saketha Ramanujam](https://github.com/sakethramanujam)
+- [Raahel Baig](https://github.com/RaahelBa1g)
+- [Sandeep Mula](https://github.com/ThePhantomCoder)
+- [Chrisando Ryan](https://github.com/chrisandoryan)
 - [Italo Sousa](https://github.com/italosa)
 - [Kantimahanti Sai Prasanna Kumar](https://github.com/kantiprasanna)
