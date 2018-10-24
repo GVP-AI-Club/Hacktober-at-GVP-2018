@@ -17,6 +17,7 @@
 - [Gopi](https://github.com/mukkapatigopi7)
 - [Supriya](https://github.com/SupriyaAmanana)
 - [Manohar Ganta](https://github.com/manoharganta256)
+- [Svetalan Zhuravleva](https://github.com/szhura)
 - [Rohit Babu](https://github.com/rohitbabugaddeti)
 - [Italo Sousa](https://github.com/italosa)
 - [GVP AI](https://github.com/gvp-ai)
