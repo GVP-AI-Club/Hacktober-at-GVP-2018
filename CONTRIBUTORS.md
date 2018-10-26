@@ -11,6 +11,7 @@
 - [Sandeep Mula](https://github.com/ThePhantomCoder)
 - [Chrisando Ryan](https://github.com/chrisandoryan)
 - [Italo Sousa](https://github.com/italosa)
+- [Carlos Daniel](https://github.com/cardangi)
 - [Meghana Matta](http://github.com/meghana998)
 - [Kamesh](https://github.com/kamesh1106)
 - [santosh killamsetty](https://github.com/KILLERKILLAM)
