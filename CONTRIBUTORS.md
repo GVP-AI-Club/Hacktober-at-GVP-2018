@@ -12,6 +12,7 @@
 - [Chrisando Ryan](https://github.com/chrisandoryan)
 - [Italo Sousa](https://github.com/italosa)
 - [Meghana Matta](http://github.com/meghana998)
+- [Caio da Silva](https://github.com/caiocvsilva)
 - [Kamesh](https://github.com/kamesh1106)
 - [santosh killamsetty](https://github.com/KILLERKILLAM)
 - [Gopi](https://github.com/mukkapatigopi7)
