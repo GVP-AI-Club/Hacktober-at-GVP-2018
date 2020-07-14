@@ -11,6 +11,7 @@
 - [Sandeep Mula](https://github.com/ThePhantomCoder)
 - [Chrisando Ryan](https://github.com/chrisandoryan)
 - [Italo Sousa](https://github.com/italosa)
+-[RAVI TEJA](https://github.com/ravit2839)
 - [Meghana Matta](http://github.com/meghana998)
 - [Kamesh](https://github.com/kamesh1106)
 - [santosh killamsetty](https://github.com/KILLERKILLAM)
@@ -20,3 +21,4 @@
 - [Rohit Babu](https://github.com/rohitbabugaddeti)
 - [Italo Sousa](https://github.com/italosa)
 - [GVP AI](https://github.com/gvp-ai)
+
