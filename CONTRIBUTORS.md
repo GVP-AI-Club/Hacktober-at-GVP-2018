@@ -8,6 +8,7 @@
 - [Nirisha Mycharla](https://github.com/nirisha69)
 - [Saketha Ramanujam](https://github.com/sakethramanujam)
 - [Raahel Baig](https://github.com/RaahelBa1g)
+- [Kasi Venkata Sai](https://github.com/kasivenkatasai)
 - [Sandeep Mula](https://github.com/ThePhantomCoder)
 - [Chrisando Ryan](https://github.com/chrisandoryan)
 - [Italo Sousa](https://github.com/italosa)
