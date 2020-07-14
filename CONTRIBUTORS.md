@@ -3,6 +3,7 @@
 - [Rakesh Peela](https://github.com/rakhi2104)
 - [Mounika Kalahasthi](https://github.com/MounikaKalahasthi7)
 - [Ewerton Ferreira](http://github.com/phelphelps)
+- [Lakshmi Seemakurthi](http://github.com/sailakshmi17)
 - [Sandhya Kakarlamudi](https://github.com/saisandhya3198)
 - [Lakshmi Narayana](https://github.com/Narayanaio)
 - [Nirisha Mycharla](https://github.com/nirisha69)
