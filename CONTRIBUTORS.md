@@ -16,6 +16,8 @@
 - [santosh killamsetty](https://github.com/KILLERKILLAM)
 - [Gopi](https://github.com/mukkapatigopi7)
 - [Supriya](https://github.com/SupriyaAmanana)
+- [Sandeep](https://github.com/sandeeppondala98)
+- [Sri Suma](https://github.com/srisumapasumarthi)
 - [Manohar Ganta](https://github.com/manoharganta256)
 - [Rohit Babu](https://github.com/rohitbabugaddeti)
 - [Italo Sousa](https://github.com/italosa)
